@@ -1,0 +1,4 @@
+theme:  $add_user	= array("username" => "wdjhclassone", // 帳號
+					"password" => "classone123", // 密碼
+					"nickname" => "管理員" // 管理員
+					); 
